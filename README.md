@@ -1,6 +1,6 @@
 # whitelabel
 
-prerequisite
+Prerequisite
 
 •	Install Node.js and NPM
 
